@@ -43,7 +43,6 @@ module.exports = {
     "space-before-blocks": ["error", "always"],
     "no-unused-vars": ["error"],
     "no-floating-decimal": ["error"],
-    "comma-dangle": ["error", "all"],
     "array-bracket-spacing": ["error", "never"],
     "object-curly-spacing": ["error", "always"],
     "switch-colon-spacing": [
