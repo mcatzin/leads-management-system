@@ -63,9 +63,9 @@ module.exports = {
     "space-before-function-paren": [
       "error",
       {
-        anonymous: "always",
-        named: "always",
-        asyncArrow: "always",
+        anonymous: "never",
+        named: "never",
+        asyncArrow: "never",
       },
     ],
     "keyword-spacing": [
